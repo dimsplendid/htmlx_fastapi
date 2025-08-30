@@ -1,6 +1,6 @@
 # README
 
-Learn the HTMLX and fastAPI, following the https://hypermedia.systems/
+Learn the HTMX and fastAPI, following the https://hypermedia.systems/
 
 ## Hypermedia System
 
